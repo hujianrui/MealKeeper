@@ -1,1 +1,1 @@
-# MealKeeper
+# Angular framework project
