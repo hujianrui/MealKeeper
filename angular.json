@@ -121,6 +121,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "MealKeeper"
+    }
+  },
+  "defaultProject": "MealKeeper",
+  "cli": {
+    "analytics": "6ba574a3-7e5c-43c7-a2b4-b2258faecee7"
+  }
 }
